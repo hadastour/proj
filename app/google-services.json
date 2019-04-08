@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "762531561332",
+    "firebase_url": "https://maps123-225821.firebaseio.com",
+    "project_id": "maps123-225821",
+    "storage_bucket": "maps123-225821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762531561332:android:09bac7e3263c329c",
+        "android_client_info": {
+          "package_name": "com.example.hadastourgeman.maps123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762531561332-o5fj97r6cf0paq4mvn5i3jsl5chunpl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBmWnz9kd1uOLjs__IStzxv9wEt0Mz3vQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
